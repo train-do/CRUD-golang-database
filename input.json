@@ -1,0 +1,39 @@
+{
+  "login": {
+    "username": "mentor1",
+    "password": "123456"
+  },
+  "register": {
+    "username": "mentor2",
+    "password": "123456"
+  },
+  "registerMentor": {
+    "name": "Mentor Dua",
+    "experience": "7 Tahun",
+    "degree": "S3",
+    "phoneNumber": "0816516"
+  },
+  "registerStudent": {
+    "name": "Student Satu",
+    "entryYear": 2015,
+    "phoneNumber": "0816551"
+  },
+  "updateMentor": {
+    "id": 1,
+    "name": "Mentor Satu++",
+    "experience": "10 Tahun",
+    "degree": "S3",
+    "phoneNumber": "0816516"
+  },
+  "course": {
+    "mentorId": 0,
+    "title": "",
+    "adminId": 0
+  },
+  "schedule": {
+    "classId": 0,
+    "startTime": "",
+    "endTime": "",
+    "adminId": ""
+  }
+}
